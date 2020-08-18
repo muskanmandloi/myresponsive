@@ -1,0 +1,23 @@
+header{
+	font-size: 25px;
+    text-align: center;
+}
+main{
+	margin-left: 100px;
+}
+.box{
+	display: blocks;
+	float:left;
+	width:20%;
+	padding:8px;
+	padding-left: 10px;
+}
+img{
+	width:100%;
+	border-radius: 5px
+
+}
+img:hover{
+	transform: scaleX(2);
+	transition: : .3s transform
+}
