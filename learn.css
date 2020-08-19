@@ -1,0 +1,9 @@
+body{
+	
+	color:#000;
+	
+    background-image: url("./image/logos.png");
+	
+	background-size: cover;
+	font-size: 18px;
+}
